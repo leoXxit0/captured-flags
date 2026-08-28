@@ -14,7 +14,7 @@ Repositorio central donde documento mis soluciones, metodologías de ataque y sc
 Cada laboratorio cuenta con su propia carpeta aislada que incluye el documento detallado (writeup) y las evidencias correspondientes:
 
 ```text
-📦 ctf-writeups
+📦 labs-writeups
 ├── 📁 path_hijacking
 │   ├── 📄 README.md        # Reconocimiento, explotación SUID y obtención de flags[cite: 1]
 │   └── 📁 img              # Capturas de nmap, código fuente y shells de root[cite: 1]
