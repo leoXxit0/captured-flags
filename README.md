@@ -2,12 +2,12 @@
 
 Repositorio central donde documento mis soluciones, metodologías de ataque y scripts utilizados para comprometer máquinas en entornos controlados de ciberseguridad. 
 
-## 🎯 Índice de Máquinas
+## Índice de Máquinas
 
 | Plataforma | Máquina | Dificultad | Vulnerabilidades y Técnicas | Directorio |
 | :--- | :--- | :---: | :--- | :--- |
-| **whoami-labs.com** | path_hijacking | Fácil 🟢 | Exposición de credenciales SSH, SUID PATH Hijacking[cite: 1] | [Ver Writeup](./path_hijacking) |
-| **whoami-labs.com** | The Reader | Fácil 🟢 | LFI (Local File Inclusion), Fuzzing, Abuso de sudo (`less`) con GTFOBins[cite: 2] | [Ver Writeup](./The_Reader) |
+| **whoami-labs.com** | path_hijacking | Fácil 🟢 | Exposición de credenciales SSH, SUID PATH Hijacking | [Ver Writeup](./path_hijacking) |
+| **whoami-labs.com** | The Reader | Fácil 🟢 | LFI (Local File Inclusion), Fuzzing, Abuso de sudo (`less`) con GTFOBins | [Ver Writeup](./The_Reader) |
 
 ## 📂 Estructura del Repositorio
 
