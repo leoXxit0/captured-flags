@@ -6,8 +6,8 @@ Repositorio central donde documento mis soluciones, metodologías de ataque y sc
 
 | Plataforma | Máquina | Dificultad | Vulnerabilidades y Técnicas | Directorio |
 | :--- | :--- | :---: | :--- | :--- |
-| **whoami-labs.com** | path_hijacking | Fácil 🟢 | Exposición de credenciales SSH, SUID PATH Hijacking | [Ver Writeup](./path_hijacking) |
-| **whoami-labs.com** | The Reader | Fácil 🟢 | LFI (Local File Inclusion), Fuzzing, Abuso de sudo (`less`) con GTFOBins | [Ver Writeup](./The_Reader) |
+| **whoami-labs.com** | path_hijacking | Fácil 🟢 | Exposición de credenciales SSH, SUID PATH Hijacking | [Ver Writeup](labs-writeups/pathhijacking) |
+| **whoami-labs.com** | The Reader | Fácil 🟢 | LFI (Local File Inclusion), Fuzzing, Abuso de sudo (`less`) con GTFOBins | [Ver Writeup](labs-writeups/thereader) |
 
 ## 📂 Estructura del Repositorio
 
