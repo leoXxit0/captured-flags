@@ -11,14 +11,4 @@ Repositorio central donde documento mis soluciones, metodologías de ataque y sc
 
 ## 📂 Estructura del Repositorio
 
-Cada laboratorio cuenta con su propia carpeta aislada que incluye el documento detallado (writeup) y las evidencias correspondientes:
-
-```text
-📦 labs-writeups
-├── 📁 path_hijacking
-│   ├── 📄 README.md        # Reconocimiento, explotación SUID y obtención de flags[cite: 1]
-│   └── 📁 img              # Capturas de nmap, código fuente y shells de root[cite: 1]
-├── 📁 The_Reader
-│   ├── 📄 README.md        # Documentación de LFI y escape a shell mediante less[cite: 2]
-│   └── 📁 img              # Capturas de ffuf, gobuster y lectura de clave RSA[cite: 2]
-└── 📄 README.md            # Este índice principal
+Cada laboratorio cuenta con su propia carpeta aislada que incluye el documento detallado (writeup) y la evidencia correspondientes.
