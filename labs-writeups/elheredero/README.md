@@ -4,7 +4,7 @@
 - **Platform:** whoami-labs.com
 - **IP Address:** 172.17.0.2
 - **Category:** SSH Key Leak + Capabilities Abuse (cap_chown)
-- **Difficulty:** Medium
+- **Difficulty:** Easy
 
 ---
 
