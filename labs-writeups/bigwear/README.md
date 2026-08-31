@@ -12,12 +12,10 @@
 
 ## 📋 Table of Contents
 
-- [Reconnaissance]
-- [Web Services Enumeration]
-- [WordPress Exploitation]
-- [System Access]
-- [Post-Exploitation & Credentials]
-- [E-commerce Panel Access]
-- [Conclusions & Recommendations]
-
-
+- Reconnaissance
+- Web Services Enumeration
+- WordPress Exploitation
+- System Access
+- Post-Exploitation & Credentials
+- E-commerce Panel Access
+- Conclusions & Recommendations
