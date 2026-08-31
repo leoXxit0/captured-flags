@@ -6,7 +6,7 @@ Repositorio central donde documento mis soluciones, metodologías de ataque y sc
 
 | Plataforma | Máquina | Dificultad | Vulnerabilidades y Técnicas | Directorio |
 | :--- | :--- | :---: | :--- | :--- |
-| **whoami-labs.com** | path_hijacking | Fácil 🟢 | Exposición de credenciales SSH, SUID PATH Hijacking | [Ver Writeup](labs-writeups/pathhijacking) |
+| **whoami-labs.com** | Path Hijacking | Fácil 🟢 | Exposición de credenciales SSH, SUID PATH Hijacking | [Ver Writeup](labs-writeups/pathhijacking) |
 | **whoami-labs.com** | The Reader | Fácil 🟢 | LFI (Local File Inclusion), Fuzzing, Abuso de sudo (`less`) con GTFOBins | [Ver Writeup](labs-writeups/thereader) |
 | **whoami-labs.com** | El heredero | Fácil 🟢 | SSH Key Leak + Capabilities Abuse (cap_chown) | [Ver Writeup](labs-writeups/elheredero) |
 | **whoami-labs.com** | Guestbook | Fácil 🟢 | Robo de sesión de admin + abuso de sudo (python3) | [Ver Writeup](labs-writeups/guestbook) |
