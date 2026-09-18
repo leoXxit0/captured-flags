@@ -10,6 +10,7 @@ Repositorio central donde documento mis soluciones, metodologías de ataque y sc
 | **whoami-labs.com** | The Reader | Fácil 🟢 | LFI (Local File Inclusion), Fuzzing, Abuso de sudo (`less`) con GTFOBins | [Ver Writeup](labs-writeups/thereader) |
 | **whoami-labs.com** | El heredero | Fácil 🟢 | SSH Key Leak + Capabilities Abuse (cap_chown) | [Ver Writeup](labs-writeups/elheredero) |
 | **whoami-labs.com** | Guestbook | Fácil 🟢 | Robo de sesión de admin + abuso de sudo (python3) | [Ver Writeup](labs-writeups/guestbook) |
+| **whoami-labs.com** | SigninBleed | Fácil 🟢 | SQL INJECTION | [Ver informe](labs-writeups/SigninBleed) |
 | **dockerlabs.es** | BigWear | Medio 🟡 | Explotación de vulnerabilidades en WordPress, Escalada de privilegios y Compromiso de aplicaciones web | [Ver Writeup](labs-writeups/bigwear) |
 
 ## 📂 Estructura del Repositorio
