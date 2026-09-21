@@ -13,6 +13,8 @@ Repositorio central donde documento mis soluciones, metodologías de ataque y sc
 | **whoami-labs.com** | SigninBleed | Fácil 🟢 | SQL INJECTION | [Ver informe](labs-writeups/signinbleed) |
 | **dockerlabs.es** | BigWear | Medio 🟡 | Explotación de vulnerabilidades en WordPress, Escalada de privilegios y Compromiso de aplicaciones web | [Ver Writeup](labs-writeups/bigwear) |
 | **whoami-labs.com** | WordPress | Medio 🟡 | Explotación de vulnerabilidades en WordPress, Escalada de privilegios, SUID vulnerable y Path Hijacking | [Ver Writeup](labs-writeups/wordpress) |
+| **whoami-labs.com** | CANCELLED | Medio 🟡 |  Explotación de vulnerabilidades de servidor WordPress interceptando un enlace de recuperación en logs expuestos para obtener ejecución remota de código, y escalar privilegios abusando de un binario SUID para leer la flag del sistema. | [Ver Writeup](labs-writeups/wordpress) |
+
 
 ## 📂 Estructura del Repositorio
 
